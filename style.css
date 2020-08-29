@@ -1,0 +1,16 @@
+html {
+  font-size: 14px;
+}
+
+h1 {
+  color: red;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.important {
+  display: none; // (間違えて実装してしまった)
+}
