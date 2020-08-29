@@ -12,5 +12,5 @@ p {
 }
 
 .important {
-  display: none; // (間違えて実装してしまった)
+  font-weight: bold;
 }
