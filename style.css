@@ -10,3 +10,7 @@ h1 {
 p {
   font-size: 1rem;
 }
+
+.important {
+  display: none; // (間違えて実装してしまった)
+}
